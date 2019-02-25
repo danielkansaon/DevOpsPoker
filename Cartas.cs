@@ -14,6 +14,7 @@ namespace Devops
             this._cartas = cartas;
             this._valores = new List<int>();
         }   
+        
         //Regra
         //Carta Alta: A carta de maior valor. #10
         private void CartaMaiorValor(){
@@ -37,14 +38,12 @@ namespace Devops
         //Straight Flush: Todas as cartas são consecutivas e do mesmo naipe. #90
         
         //Royal Flush: A seqüência 10, Valete, Dama, Rei, Ás, do mesmo naipe. #100
-
     }    
     
     public class Carta 
     {
         public EnumValor Valor {get; set;}
         public EnumNaipe Naipe {get; set;}
-
     }
 
     public enum EnumValor
