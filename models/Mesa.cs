@@ -1,6 +1,6 @@
 using System;
 
-namespace Devops
+namespace Devops.models
 {
    
     public class Mesa{
