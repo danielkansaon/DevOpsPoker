@@ -5,6 +5,8 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script:
-    dotnet restore
-    dotnet build
+- task: DotNetCoreCLI@2
+  displayName: Restore
+
+- task: DotNetCoreCLI@2
+  displayName: build
