@@ -7,4 +7,4 @@ variables:
 steps:
 - script: |
     dotnet build --configuration $(buildConfiguration)
-    dotnet test dotnetcore-tests --configuration $(buildConfiguration) --logger trx
+    dotnet restore --configuration $(buildConfiguration)
