@@ -92,7 +92,7 @@ public class Regras
         }
         else
         {
-
+            return 0;
         }
     }
 
