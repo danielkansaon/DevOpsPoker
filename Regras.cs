@@ -58,7 +58,7 @@ public class Regras
     //Quadra: Quatro cartas do mesmo valor. #80
     public int Quadra(List<Carta> cartasMao)
     {
-        return 0;s
+        return 0;
     }
 
     //Straight Flush: Todas as cartas são consecutivas e do mesmo naipe. #90
