@@ -1,0 +1,11 @@
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/bin/Debug/netcoreapp2.2/PokerDevOps.deps.json
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/bin/Debug/netcoreapp2.2/PokerDevOps.runtimeconfig.json
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/bin/Debug/netcoreapp2.2/PokerDevOps.runtimeconfig.dev.json
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/bin/Debug/netcoreapp2.2/PokerDevOps.dll
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/bin/Debug/netcoreapp2.2/PokerDevOps.pdb
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/obj/Debug/netcoreapp2.2/PokerDevOps.csprojAssemblyReference.cache
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/obj/Debug/netcoreapp2.2/PokerDevOps.csproj.CoreCompileInputs.cache
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/obj/Debug/netcoreapp2.2/PokerDevOps.AssemblyInfoInputs.cache
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/obj/Debug/netcoreapp2.2/PokerDevOps.AssemblyInfo.cs
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/obj/Debug/netcoreapp2.2/PokerDevOps.dll
+/Users/julianalobatodasilva/Documents/projetos/PokerDevOps/obj/Debug/netcoreapp2.2/PokerDevOps.pdb
